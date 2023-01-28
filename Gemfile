@@ -26,7 +26,6 @@ group :development, :test do
   gem 'apipie-rails'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'database_cleaner'
-  gem 'dotenv-rails'
   gem 'factory_bot_rails'
   gem 'faker'
   gem 'parallel_tests'
